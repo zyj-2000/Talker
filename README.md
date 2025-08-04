@@ -1,6 +1,6 @@
 <p align="center">
   <img src="pic/imitator.png" width="100" height="80">
-  <h1 align="center"><b>Who is a Better Talker</b></h1>
+  <h1 align="center"><b>Who is a Better Talker (This repo is now not available, still the same as [Imitator](https://github.com/zyj-2000/Imitator)</b></h1>
   <p align="center">Yingjie Zhou Zicheng Zhang, Jun Jia, Yanwei Jiang, Xiaohong Liu, Xiongkuo Min and Guangtao Zhai</p>
   <p align="center">Email: zyj2000@sjtu.edu.cn</p>
 </p>
@@ -30,8 +30,8 @@ Our novel Peer-to-Peer Motion (P2P-Motion) framework establishes a new benchmark
 
 ---
 
-## Getting Started
-To use this Dataset:
+## Getting Started (Attention: Not THQA-10K now)
+To use this Dataset (Not THQA-10K now):
 
 [百度云盘：AHQA_Dataset](https://pan.baidu.com/s/1LF8JGvLJWHP7rGQmrHreVQ?pwd=ahqa)
 
